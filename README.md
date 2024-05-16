@@ -51,5 +51,6 @@ Validation Loss:             34.65%
 
 [1] Word-level Deep Sign Language Recognition by Dongxu Li et al.  
 [Word-level Deep Sign language Recognition ](https://paperswithcode.com/paper/word-level-deep-sign-language-recognition)
+
 [2] A Real-Time American Sign Language Recognition System using Convolutional 
 Neural Network for Real Datasets by Rasha Amer Kadhim and Muntadher Khamees  
